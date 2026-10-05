@@ -1,4 +1,4 @@
-const CACHE_NAME = 'oscilloscope-physiclabdz-v1';
+const CACHE_NAME = 'physiclab-oscilloscope1-v4';
 const ASSETS = [
   './',
   './index.html',
